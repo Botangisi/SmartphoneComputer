@@ -44,4 +44,4 @@ The MEPST is convinced that helping promote a smartphone computer among teachers
 In order for this initiative to thrive, the support of an array of partners, technical experts, hardware producers, financial supporters, and other educational entities is vital. A nonprofit organization dedicated to improving the use of technology in the educational sector, simplifies connections and facilitates interest in the project. Over decades similar projects in the high-tech sector have been coordinated and carried out by nonprofit entities (Linux, Apache and many others). 
 The Botangisi Association, with the support of MEPST and other partners, will be able to get the attention of various manufacturers creating a market for Smartphone Computers suitable for Congo and other Sub-Saharan countries. 
 
-#### Property of Botangisi
+
